@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lista</string>
+    <string name="textview_name">Rodrigo Eduardo Gutierrez</string>
+    <string name="textviewe_saludo">Hola mundo</string>
+    <string name="textview_number">55 51 07 53 44</string>
+    <string name="tvEmail">r.g.s.1415@gmail.com</string>
+</resources>
